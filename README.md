@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building a **Legal Management System** at [Altamayuz Firm](https://altamayuz.com)
+- 🔭 Built an enterprise **Legal Management System** at Altamayuz Firm
 - 🌍 Delivered production apps across **e-commerce, tourism, and legal tech**
 - ⚡ I build across the full stack — from database schema to pixel-perfect UI
 - 🌐 Comfortable with both **LTR & RTL** interfaces
@@ -30,6 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=flat-square&logo=react&logoColor=white)
 
 **Backend**
 
@@ -65,25 +66,11 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| ⚖️ **Altamayuz Legal Management System** | Enterprise legal platform with multi-role permissions, 6 core modules, real-time messaging, and dual staff/client portals | Django, React, TypeScript, PostgreSQL |
+| ⚖️ **Altamayuz Legal Management System** | Enterprise legal platform with multi-role permissions, multiple core modules, real-time messaging, and dual staff/client portals | Django, React, TypeScript, PostgreSQL |
 | 👟 **DOiT — Sportswear E-commerce** | Full e-commerce platform with multi-gender catalogs, variant/inventory management, and admin panel | Next.js, NestJS, MySQL |
 | 🏖️ **TuraTrip — Tourism Platform** | Multi-language tourism booking platform with real-time currency conversion and transactional emails | React, Node.js, Express.js, MySQL |
 
 > 🔒 Most of my work is under NDA for clients. The repos above are private — feel free to reach out for a walkthrough!
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Shoniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShonizHaridy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShonizHaridy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ShonizHaridy&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
